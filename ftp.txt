@@ -1,0 +1,19 @@
+open ftp.magnumsemi.com
+sonyjigeninternal
+XXXXXXXX
+cd /Release/ToBJ/
+mkdir Beta_0.14_1220
+cd /Release/ToBJ/Beta_0.14_1220/
+mkdir 01
+cd /Release/ToBJ/Beta_0.14_1220/01/
+put jigen-p3-spi.bin               /Release/ToBJ/Beta_0.14_1220/01/jigen-p3-spi.bin
+put JIGEN-P3.MOT                   /Release/ToBJ/Beta_0.14_1220/01/JIGEN-P3.MOT
+put jigen-p3.x                     /Release/ToBJ/Beta_0.14_1220/01/jigen-p3.x
+put jigen-p3-spi.map               /Release/ToBJ/Beta_0.14_1220/01/jigen-p3-spi.map
+put jigen-p3-spi-dis.rar           /Release/ToBJ/Beta_0.14_1220/01/jigen-p3-spi-dis.rar
+put sony_dvd_recorder_full.pac     /Release/ToBJ/Beta_0.14_1220/01/sony_dvd_recorder_full.pac
+put sony_dvd_recorder_full_pac.rar /Release/ToBJ/Beta_0.14_1220/01/sony_dvd_recorder_full_pac.rar
+put sony_dvd_recorder_loader.pac   /Release/ToBJ/Beta_0.14_1220/01/sony_dvd_recorder_loader.pac
+put symbols.txt                    /Release/ToBJ/Beta_0.14_1220/01/symbols.txt
+put MD5_Value.txt                  /Release/ToBJ/Beta_0.14_1220/01/MD5_Value.txt
+bye
